@@ -1,0 +1,42 @@
+.messageItem{
+    display: flex;
+    margin: 30px 10px;
+    position: relative;
+    justify-content: flex-start;
+}
+.message{
+    color: #3D3E41;
+    max-width: 60%;
+    background: rgba(92, 157, 255, .2);
+    /* margin-left: 50px; */
+    padding: 5px 10px;
+    position: relative;
+    border-radius: 6px;
+}
+.message::before{
+    border-bottom: 5px solid transparent;
+    border-right: 4px solid rgba(92, 157, 255, 0.2);
+    border-top: 5px solid transparent;
+    content: "";
+    height: 0;
+    position: absolute;
+    top: 17px;
+    width: 0;
+}
+.right{
+    composes: message
+}
+.right::before{
+    left: -4px;
+}
+.left{
+    composes: message; 
+    margin-left: auto;
+    background: rgba(255, 204, 74, .2);
+}
+.left::before{
+    border-left: 4px solid rgba(255, 204, 74, .2);
+    border-right: none;
+    right: -4px;
+
+}

@@ -1,0 +1,17 @@
+
+.dialog{
+    height: 30px;
+    width: 90%;
+    /* align-self: center; */
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 10px;
+    border-bottom: 1px solid #d4d4d4;
+}
+.dialog a{
+    color: #825C46;
+    text-decoration: none;
+}
+.dialog a.active{
+    color: #D08A4B;
+}

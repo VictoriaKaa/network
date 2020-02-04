@@ -1,0 +1,23 @@
+.loginBlock{
+    background-image: url(https://c.wallhere.com/photos/45/7f/nature_landscape_winter_snow_ice_mountains_snowy_peak_Lofoten-430.jpg!d);
+    height: 60vh;
+    text-align: center;
+    padding-top: 200px;
+    color: #D08A4B;
+}
+.login{
+    font-size: 40px;
+    font-weight: bold;
+    padding: 10px;
+    text-transform: uppercase;
+}
+.loginBtn{
+    background: #D08A4B;
+    padding: 7px 25px;
+    border: none;
+    font-size: 14px;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 20px;
+    margin-top: 10px;
+}

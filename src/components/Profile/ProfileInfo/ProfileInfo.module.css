@@ -1,0 +1,50 @@
+.profileBLock{
+    background-image: url(https://c.wallhere.com/photos/45/7f/nature_landscape_winter_snow_ice_mountains_snowy_peak_Lofoten-430.jpg!d);
+    /* height: 140vh; */
+    padding: 10px 0px 0px 10px;
+}
+.profileInner{
+    display: flex;
+    color: white;
+    padding-top: 40px;
+    align-items: flex-start;
+
+}
+img{
+    border-radius: 30%;
+}
+/* .description{
+    flex-grow: 1;
+} */
+
+.statusDescription{
+    padding: 10px;
+    color: white;
+    background-color:rgba(0,0,0,.5);
+    margin-top: 125px;
+    width: calc(100% - 20px);
+    max-width: 525px;
+    word-break: break-all;
+    /* min-height: 40px;
+    height: 40px;
+    max-height: 90px; */
+}
+.info{
+    color: white;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.info div{
+    padding: 5px 0px;
+}
+.info span{
+    font-size: 16px;
+    color: #CAD9E1;
+    font-weight: normal;
+}
+.contacts{
+    margin-top: 20px;
+    font-weight: bold;
+    color: #D0DBE1;
+}

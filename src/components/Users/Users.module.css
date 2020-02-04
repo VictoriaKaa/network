@@ -1,0 +1,59 @@
+.usersPage{
+  display: flex;
+  flex-wrap: wrap;
+}
+.user{
+    border-bottom: 1px solid #83868C;
+    padding-top: 20px;
+    width: 350px;
+    margin: 0px 50px 20px 0px;
+    padding-bottom: 10px;
+}
+.userPhoto {
+    background-color: #fff;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    margin: 20px 20px 0px;
+}
+
+.top{
+    width: 350px;
+    height: 100px;
+    background-image: url(https://c.wallhere.com/photos/45/7f/nature_landscape_winter_snow_ice_mountains_snowy_peak_Lofoten-430.jpg!d);
+    background-size: cover;
+    background-position: center;
+}
+.bottom{
+    display: flex;
+    width: 350px;
+    /* min-height: 70px; */
+    padding: 30px 0px 0px 20px;
+}
+.info{
+    width: 60%;
+}
+.name{
+    color: #825C46;
+    font-size: 18px;
+
+}
+.status{
+    color: #3D3E41;
+    padding-top: 3px;
+
+}
+.btnFollow{
+    background: #D08A4B;
+    padding: 7px 25px;
+    border: none;
+    font-size: 14px;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 30px;
+}
+.btnFollow.disabled{
+    background-color: black;
+
+}

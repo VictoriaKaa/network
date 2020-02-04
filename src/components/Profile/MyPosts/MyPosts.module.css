@@ -1,0 +1,24 @@
+.postsBlock{
+    padding-top: 40px;
+}
+
+.posts{
+    margin-top: 10px;
+}
+
+.profileForm{
+    display: flex;
+}
+
+.addBtn{
+    background: #D08A4B;
+    padding: 7px 25px;
+    margin-left: 20px;
+    border: none;
+    font-size: 14px;
+    border-radius: 4px;
+    color: #fff;
+    position: relative;
+    font-weight: 600;
+    border-radius: 10px;
+}
