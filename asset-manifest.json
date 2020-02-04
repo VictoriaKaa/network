@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/network/static/css/main.18cc38aa.chunk.css",
+    "main.js": "/network/static/js/main.0b3d3e26.chunk.js",
+    "main.js.map": "/network/static/js/main.0b3d3e26.chunk.js.map",
+    "runtime~main.js": "/network/static/js/runtime~main.bfbc5d04.js",
+    "runtime~main.js.map": "/network/static/js/runtime~main.bfbc5d04.js.map",
+    "static/js/2.9a49ab77.chunk.js": "/network/static/js/2.9a49ab77.chunk.js",
+    "static/js/2.9a49ab77.chunk.js.map": "/network/static/js/2.9a49ab77.chunk.js.map",
+    "static/css/3.6e3de323.chunk.css": "/network/static/css/3.6e3de323.chunk.css",
+    "static/js/3.2bc7c718.chunk.js": "/network/static/js/3.2bc7c718.chunk.js",
+    "static/js/3.2bc7c718.chunk.js.map": "/network/static/js/3.2bc7c718.chunk.js.map",
+    "index.html": "/network/index.html",
+    "precache-manifest.340f0891776ffc7e7d51d77d8a86afce.js": "/network/precache-manifest.340f0891776ffc7e7d51d77d8a86afce.js",
+    "service-worker.js": "/network/service-worker.js",
+    "static/css/3.6e3de323.chunk.css.map": "/network/static/css/3.6e3de323.chunk.css.map",
+    "static/css/main.18cc38aa.chunk.css.map": "/network/static/css/main.18cc38aa.chunk.css.map",
+    "static/media/Eclipse.svg": "/network/static/media/Eclipse.1ac24fc2.svg"
+  }
+}
